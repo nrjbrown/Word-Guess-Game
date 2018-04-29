@@ -1,0 +1,17 @@
+/*Universal CSS classes*/
+.box {
+	border: 3px dashed white;
+	height: 350px;
+	padding-top: 50px;
+}
+body {
+	background-color:black;
+}
+p {
+	color: white;
+    text-align: center;}
+    
+    .giphy-embed {
+       float: right;
+       position: relative;
+    }
